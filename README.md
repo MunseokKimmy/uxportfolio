@@ -8,21 +8,20 @@ The Dashboard for CCRanger, an order management tool used today by college print
 
 Welcome Page for Libero, a volleyball app for recording volleyball statistics and player profiles. <br/>
 
-![Starting Page](https://github.com/MunseokKimmy/uxportfolio/assets/59575386/8d35040a-6b80-4e60-897e-4151b8736495)
+<img src="https://github.com/MunseokKimmy/uxportfolio/assets/59575386/8d35040a-6b80-4e60-897e-4151b8736495" width="400">
 
 Most Recent Iteration of the Home Screen. Subject to changes as more features get added or removed.<br/>
 
-![Home Page](https://github.com/MunseokKimmy/uxportfolio/assets/59575386/9c5f9c0a-ace1-48ff-ac77-a083d0d47e4f)
+<img src="https://github.com/MunseokKimmy/uxportfolio/assets/59575386/9c5f9c0a-ace1-48ff-ac77-a083d0d47e4f" width="400">
 
 Volleyball Player Profile<br/>
 
-![Person Profile - New](https://github.com/MunseokKimmy/uxportfolio/assets/59575386/81de5757-6757-4866-b713-6dec6e20d20b)
-
+<img src="https://github.com/MunseokKimmy/uxportfolio/assets/59575386/81de5757-6757-4866-b713-6dec6e20d20b" width="400">
 Post Game Analysis Ideas<br/>
 
 ![Post Game]
-<img src="https://github.com/MunseokKimmy/uxportfolio/assets/59575386/66dce46d-a4a4-4b66-9fd5-9985cc5743b6" width="100">
-Side Menu Ideas<br/>
+<img src="https://github.com/MunseokKimmy/uxportfolio/assets/59575386/66dce46d-a4a4-4b66-9fd5-9985cc5743b6" width="400">
 
-![White and Blue Hamburger Menu](https://github.com/MunseokKimmy/uxportfolio/assets/59575386/7b39f81b-3b1b-4351-81aa-5e0883766d53)
+Side Menu Ideas<br/>
+<img src="https://github.com/MunseokKimmy/uxportfolio/assets/59575386/7b39f81b-3b1b-4351-81aa-5e0883766d53" width="400">
 
