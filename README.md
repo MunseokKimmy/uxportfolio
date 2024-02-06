@@ -21,7 +21,7 @@ Volleyball Player Profile<br/>
 Post Game Analysis Ideas<br/>
 
 ![Post Game]
-<img src="[https://github.com/favicon.ico](https://github.com/MunseokKimmy/uxportfolio/assets/59575386/66dce46d-a4a4-4b66-9fd5-9985cc5743b6)" width="100">
+<img src="https://github.com/MunseokKimmy/uxportfolio/assets/59575386/66dce46d-a4a4-4b66-9fd5-9985cc5743b6" width="100">
 Side Menu Ideas<br/>
 
 ![White and Blue Hamburger Menu](https://github.com/MunseokKimmy/uxportfolio/assets/59575386/7b39f81b-3b1b-4351-81aa-5e0883766d53)
