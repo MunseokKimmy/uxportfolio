@@ -20,7 +20,7 @@ Volleyball Player Profile<br/>
 
 Post Game Analysis Ideas<br/>
 
-![Post Game](https://github.com/MunseokKimmy/uxportfolio/assets/59575386/66dce46d-a4a4-4b66-9fd5-9985cc5743b6| width=100)
+![Post Game](https://github.com/MunseokKimmy/uxportfolio/assets/59575386/66dce46d-a4a4-4b66-9fd5-9985cc5743b6 | width=100)
 
 Side Menu Ideas<br/>
 
